@@ -1,0 +1,24 @@
+.head1{
+
+    color: blue;
+
+}
+
+.head2{
+
+    color: brown;
+
+
+}
+
+.img1{
+ width: 500px;
+ height: 400px;
+}
+
+.test1{
+   height: 300px;
+   width: 300px;
+   border-radius: 20%;
+    background-color: rgb(50, 77, 24);
+}
